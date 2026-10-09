@@ -1,0 +1,24 @@
+{
+  "report_id": "2026-152",
+  "repo_name": "verasight-report-2026-152",
+  "title": "AOM Omnibus",
+  "wave_id": "2026-152",
+  "survey_id": "2026-152",
+  "source_report_url": "https://reports.verasight.io/r/aom-2026",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2026-08-12",
+    "end": "2026-08-18"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 34,
+  "modules": [
+    "AOM Survey #2026-152"
+  ],
+  "source_report_urls": [
+    "https://reports.verasight.io/r/aom-2026"
+  ]
+}

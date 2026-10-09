@@ -1,0 +1,187 @@
+question_id,option_id,option_label,is_missing
+2026-152_q1,1,"Yes, I think most companies benefit a lot from corporate political activity.",false
+2026-152_q1,2,I am not sure.,false
+2026-152_q1,3,"No, I think most companies do not benefit from corporate political activity.",false
+2026-152_q10,1,Completely agree,false
+2026-152_q10,2,Somewhat agree,false
+2026-152_q10,3,Neither agree nor disagree,false
+2026-152_q10,4,Somewhat disagree,false
+2026-152_q10,5,Completely disagree,false
+2026-152_q10,6,I am not currently employed,false
+2026-152_q11,1,Yes,false
+2026-152_q11,2,No,false
+2026-152_q11,3,I am not currently employed,false
+2026-152_q12,1,Yes,false
+2026-152_q12,2,No,false
+2026-152_q13,1,Yes,false
+2026-152_q13,2,No,false
+2026-152_q14,1,The marketplace,false
+2026-152_q14,2,Government regulations,false
+2026-152_q14,3,Leadership,false
+2026-152_q14,4,Employees,false
+2026-152_q14,5,I'm not sure / I don't know,false
+2026-152_q15,1,Strongly disagree,false
+2026-152_q15,2,Somewhat disagree,false
+2026-152_q15,3,Neither disagree nor agree,false
+2026-152_q15,4,Somewhat agree,false
+2026-152_q15,5,Strongly agree,false
+2026-152_q16,1,Very unfavorable,false
+2026-152_q16,2,Slightly unfavorable,false
+2026-152_q16,3,Neutral,false
+2026-152_q16,4,Slightly favorable,false
+2026-152_q16,5,Very favorable,false
+2026-152_q17,1,Not at all effective,false
+2026-152_q17,2,Slightly effective,false
+2026-152_q17,3,Moderately effective,false
+2026-152_q17,4,Very effective,false
+2026-152_q17,5,Extremely effective,false
+2026-152_q17,6,I do not have a partner,false
+2026-152_q17,7,My partner and I do not live together,false
+2026-152_q18,1,Definitely A,false
+2026-152_q18,2,Probably A,false
+2026-152_q18,3,Not sure,false
+2026-152_q18,4,Probably B,false
+2026-152_q18,5,Definitely B,false
+2026-152_q19,1,1 - Not at all,false
+2026-152_q19,2,2,false
+2026-152_q19,3,3,false
+2026-152_q19,4,4,false
+2026-152_q19,5,5,false
+2026-152_q19,6,6 - Very much,false
+2026-152_q19,7,I do not work with coworkers or do not work,false
+2026-152_q2,1,Breaking work into teachable steps,false
+2026-152_q2,2,Visual tools/checklist,false
+2026-152_q2,3,Clear communication among employees and managers,false
+2026-152_q2,4,Identifying overlooked workflow problems,false
+2026-152_q2,5,All of the above,false
+2026-152_q2,6,I'm not sure / I don't know,false
+2026-152_q20,1,A person with one disciplinary area of expertise,false
+2026-152_q20,2,A person with two disciplinary areas of expertise,false
+2026-152_q21,1,Never,false
+2026-152_q21,2,Rarely,false
+2026-152_q21,3,Sometimes,false
+2026-152_q21,4,Often,false
+2026-152_q21,5,Very Often,false
+2026-152_q21,6,I do not use generative AI for work-related tasks,false
+2026-152_q21,7,I am not currently employed,false
+2026-152_q22,1,Never,false
+2026-152_q22,2,Rarely,false
+2026-152_q22,3,Sometimes,false
+2026-152_q22,4,Often,false
+2026-152_q22,5,Very often,false
+2026-152_q22,6,I do not use generative AI for work-related tasks,false
+2026-152_q22,7,I am not currently employed,false
+2026-152_q23,1,Strongly support,false
+2026-152_q23,2,Somewhat support,false
+2026-152_q23,3,Neutral,false
+2026-152_q23,4,Somewhat oppose,false
+2026-152_q23,5,Strongly oppose,false
+2026-152_q24,1,Never,false
+2026-152_q24,2,1-3 times,false
+2026-152_q24,3,4-6 times,false
+2026-152_q24,4,7-9 times,false
+2026-152_q24,5,10-12 times,false
+2026-152_q24,6,13 or more times,false
+2026-152_q24,7,I am not currently employed,false
+2026-152_q25,1,Strongly disagree,false
+2026-152_q25,2,Disagree,false
+2026-152_q25,3,Neither agree nor disagree,false
+2026-152_q25,4,Agree,false
+2026-152_q25,5,Strongly agree,false
+2026-152_q25,6,I am not currently employed,false
+2026-152_q26,1,Strongly disagree,false
+2026-152_q26,2,Disagree,false
+2026-152_q26,3,Neither agree nor disagree,false
+2026-152_q26,4,Agree,false
+2026-152_q26,5,Strongly agree,false
+2026-152_q26,6,I am not currently employed,false
+2026-152_q27,1,Never heard of them,false
+2026-152_q27,2,"Have heard of them, but not visited",false
+2026-152_q27,3,Visited one,false
+2026-152_q27,4,Have used the facilities of one,false
+2026-152_q27,5,Am an active member of one,false
+2026-152_q28,1,Strongly disagree,false
+2026-152_q28,2,Disagree,false
+2026-152_q28,3,Neither disagree nor agree,false
+2026-152_q28,4,Agree,false
+2026-152_q28,5,Strongly agree,false
+2026-152_q29,1,Strongly disagree,false
+2026-152_q29,2,Disagree,false
+2026-152_q29,3,Neither agree nor disagree,false
+2026-152_q29,4,Agree,false
+2026-152_q29,5,Strongly agree,false
+2026-152_q29,6,Not applicable / I am not currently employed,false
+2026-152_q3,1,Supervisor,false
+2026-152_q3,2,HR,false
+2026-152_q3,3,Coworkers,false
+2026-152_q3,4,New employee,false
+2026-152_q3,5,Someone working alongside the employee during onboarding (ex. Job Coach),false
+2026-152_q3,6,I'm not sure / I don't know,false
+2026-152_q30,1,Strongly disagree,false
+2026-152_q30,2,Disagree,false
+2026-152_q30,3,Neither agree nor disagree,false
+2026-152_q30,4,Agree,false
+2026-152_q30,5,Strongly agree,false
+2026-152_q30,6,Not applicable,false
+2026-152_q31,1,Strongly disagree,false
+2026-152_q31,2,Disagree,false
+2026-152_q31,3,Neither agree or disagree,false
+2026-152_q31,4,Agree,false
+2026-152_q31,5,Strongly agree,false
+2026-152_q31,6,Not applicable,false
+2026-152_q32,1,I do not identify as neurodivergent,false
+2026-152_q32,2,Much less effort,false
+2026-152_q32,3,Less effort,false
+2026-152_q32,4,About the same,false
+2026-152_q32,5,More effort,false
+2026-152_q32,6,Much more effort,false
+2026-152_q32,7,Not applicable / I am not currently employed,false
+2026-152_q33,1,Not at all,false
+2026-152_q33,2,A little,false
+2026-152_q33,3,Moderate,false
+2026-152_q33,4,Much,false
+2026-152_q33,5,Very much,false
+2026-152_q33,6,I do not have a partner,false
+2026-152_q33,7,My partner and I do not live together,false
+2026-152_q34,1,... do his best to provide for his wife and children,false
+2026-152_q34,2,...frequently express and discuss his emotional feelings,false
+2026-152_q34,3,...establish and maintain his authority over his wife,false
+2026-152_q34,4,...support his wife in her career,false
+2026-152_q34,5,"...do half the housework and childcare, regardless whether the wife has a job",false
+2026-152_q34,6,...work with other men to keep women in their place,false
+2026-152_q34,7,...expect to have sex at least once a week,false
+2026-152_q34,8,None of the above,false
+2026-152_q4,1,Not at all,false
+2026-152_q4,2,To a little extent,false
+2026-152_q4,3,To a moderate extent,false
+2026-152_q4,4,To a great extent,false
+2026-152_q4,5,To a very great extent,false
+2026-152_q4,6,I do not have a partner,false
+2026-152_q4,7,My partner and I do not live together,false
+2026-152_q5,1,To generate ideas and explore possible futures,false
+2026-152_q5,2,"To better understand my goals, values, and current situation",false
+2026-152_q5,3,To compare options and support decision-making,false
+2026-152_q5,4,To turn my goals into concrete plans and actions,false
+2026-152_q5,5,To improve or build on plans I have already developed,false
+2026-152_q5,6,I would not use AI tools for this purpose,false
+2026-152_q5,7,Other,false
+2026-152_q6,1,Male,false
+2026-152_q6,2,Female,false
+2026-152_q6,3,Non-binary,false
+2026-152_q6,4,No gender,false
+2026-152_q6,5,I do not use generative AI,false
+2026-152_q7,1,Yes,false
+2026-152_q7,2,No,false
+2026-152_q7,3,I have never been employed,false
+2026-152_q8,1,Only at my current employer (they wouldn’t be much use at another company).,false
+2026-152_q8,2,"At other companies in my industry, but not outside it.",false
+2026-152_q8,3,"In my type of work or occupation, at companies in any industry.",false
+2026-152_q8,4,Broadly useful in almost any job or industry.,false
+2026-152_q8,5,I haven’t gained skills that are especially useful anywhere.,false
+2026-152_q8,6,I am not currently employed full-time.,false
+2026-152_q9,1,Never,false
+2026-152_q9,2,Daily,false
+2026-152_q9,3,Weekly,false
+2026-152_q9,4,Monthly,false
+2026-152_q9,5,Yearly,false
+2026-152_q9,6,"Not applicable (e.g., I am not currently working)",false

@@ -1,0 +1,187 @@
+question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
+2026-152_q1,1,"Yes, I think most companies benefit a lot from corporate political activity.",0.7275194546510729,72.75,727.519454651087,734,false,https://reports.verasight.io/r/aom-2026#q-1
+2026-152_q1,2,I am not sure.,0.15603969492637074,15.6,156.03969492637376,150,false,https://reports.verasight.io/r/aom-2026#q-1
+2026-152_q1,3,"No, I think most companies do not benefit from corporate political activity.",0.11644085042255627,11.64,116.44085042255851,116,false,https://reports.verasight.io/r/aom-2026#q-1
+2026-152_q10,1,Completely agree,0.13838014995649128,13.84,138.38014995649397,141,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q10,2,Somewhat agree,0.22952164329888886,22.95,229.52164329889328,228,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q10,3,Neither agree nor disagree,0.18559427270105106,18.56,185.59427270105465,170,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q10,4,Somewhat disagree,0.07149639915048385,7.15,71.49639915048523,71,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q10,5,Completely disagree,0.07266419372849862,7.27,72.66419372850002,73,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q10,6,I am not currently employed,0.3023433411645863,30.23,302.3433411645921,317,false,https://reports.verasight.io/r/aom-2026#q-10
+2026-152_q11,1,Yes,0.4525545127196442,45.26,452.55451271965296,450,false,https://reports.verasight.io/r/aom-2026#q-11
+2026-152_q11,2,No,0.2178875254967837,21.79,217.8875254967879,209,false,https://reports.verasight.io/r/aom-2026#q-11
+2026-152_q11,3,I am not currently employed,0.329557961783572,32.96,329.5579617835784,341,false,https://reports.verasight.io/r/aom-2026#q-11
+2026-152_q12,1,Yes,0.49050341947705933,49.05,490.5034194770688,483,false,https://reports.verasight.io/r/aom-2026#q-12
+2026-152_q12,2,No,0.5094965805229407,50.95,509.49658052295047,517,false,https://reports.verasight.io/r/aom-2026#q-12
+2026-152_q13,1,Yes,0.23078896560783274,23.08,230.7889656078372,216,false,https://reports.verasight.io/r/aom-2026#q-13
+2026-152_q13,2,No,0.7692110343921671,76.92,769.211034392182,784,false,https://reports.verasight.io/r/aom-2026#q-13
+2026-152_q14,1,The marketplace,0.10375302757014983,10.38,103.75302757015183,100,false,https://reports.verasight.io/r/aom-2026#q-14
+2026-152_q14,2,Government regulations,0.03147391371584155,3.15,31.47391371584216,28,false,https://reports.verasight.io/r/aom-2026#q-14
+2026-152_q14,3,Leadership,0.3849148885118129,38.49,384.9148885118203,394,false,https://reports.verasight.io/r/aom-2026#q-14
+2026-152_q14,4,Employees,0.3469861904730317,34.7,346.9861904730384,355,false,https://reports.verasight.io/r/aom-2026#q-14
+2026-152_q14,5,I'm not sure / I don't know,0.132871979729164,13.29,132.87197972916658,123,false,https://reports.verasight.io/r/aom-2026#q-14
+2026-152_q15,1,Strongly disagree,0.41797204791096965,41.8,417.9720479109777,432,false,https://reports.verasight.io/r/aom-2026#q-15
+2026-152_q15,2,Somewhat disagree,0.13084605518994044,13.08,130.84605518994297,117,false,https://reports.verasight.io/r/aom-2026#q-15
+2026-152_q15,3,Neither disagree nor agree,0.32036086659043306,32.04,320.36086659043923,323,false,https://reports.verasight.io/r/aom-2026#q-15
+2026-152_q15,4,Somewhat agree,0.10239697018292553,10.24,102.3969701829275,99,false,https://reports.verasight.io/r/aom-2026#q-15
+2026-152_q15,5,Strongly agree,0.028424060125731315,2.84,28.424060125731863,29,false,https://reports.verasight.io/r/aom-2026#q-15
+2026-152_q16,1,Very unfavorable,0.024093547459047376,2.41,24.09354745904784,27,false,https://reports.verasight.io/r/aom-2026#q-16
+2026-152_q16,2,Slightly unfavorable,0.08151488654167839,8.15,81.51488654167997,84,false,https://reports.verasight.io/r/aom-2026#q-16
+2026-152_q16,3,Neutral,0.4897180865030658,48.97,489.71808650307526,491,false,https://reports.verasight.io/r/aom-2026#q-16
+2026-152_q16,4,Slightly favorable,0.19060128677622812,19.06,190.6012867762318,192,false,https://reports.verasight.io/r/aom-2026#q-16
+2026-152_q16,5,Very favorable,0.2140721927199802,21.41,214.07219271998434,206,false,https://reports.verasight.io/r/aom-2026#q-16
+2026-152_q17,1,Not at all effective,0.0222377695078318,2.22,22.23776950783223,20,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,2,Slightly effective,0.03871904217585541,3.87,38.71904217585616,39,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,3,Moderately effective,0.18356130390251058,18.36,183.5613039025141,190,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,4,Very effective,0.27458859595861035,27.46,274.58859595861566,281,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,5,Extremely effective,0.17113527850059096,17.11,171.13527850059427,173,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,6,I do not have a partner,0.24484868924099026,24.48,244.848689240995,236,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q17,7,My partner and I do not live together,0.06490932071361057,6.49,64.90932071361182,61,false,https://reports.verasight.io/r/aom-2026#q-18
+2026-152_q18,1,Definitely A,0.15600708809548877,15.6,156.00708809549178,146,false,https://reports.verasight.io/r/aom-2026#q-19
+2026-152_q18,2,Probably A,0.24076783483410763,24.08,240.76783483411228,242,false,https://reports.verasight.io/r/aom-2026#q-19
+2026-152_q18,3,Not sure,0.3526749085844719,35.27,352.6749085844787,368,false,https://reports.verasight.io/r/aom-2026#q-19
+2026-152_q18,4,Probably B,0.19838432480210233,19.84,198.38432480210616,193,false,https://reports.verasight.io/r/aom-2026#q-19
+2026-152_q18,5,Definitely B,0.052165843683829274,5.22,52.16584368383028,51,false,https://reports.verasight.io/r/aom-2026#q-19
+2026-152_q19,1,1 - Not at all,0.26264077747372916,26.26,262.64077747373426,264,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,2,2,0.10697203934755466,10.7,106.97203934755673,110,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,3,3,0.11245579436145647,11.25,112.45579436145864,110,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,4,4,0.1620193213669804,16.2,162.01932136698355,154,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,5,5,0.08036951841921457,8.04,80.36951841921612,79,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,6,6 - Very much,0.07213354860232192,7.21,72.13354860232332,67,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q19,7,I do not work with coworkers or do not work,0.20340900042874274,20.34,203.40900042874668,216,false,https://reports.verasight.io/r/aom-2026#q-20
+2026-152_q2,1,Breaking work into teachable steps,0.07854004782943282,7.85,78.54004782943433,75,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q2,2,Visual tools/checklist,0.06165806649551811,6.17,61.6580664955193,61,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q2,3,Clear communication among employees and managers,0.21615278771993401,21.62,216.1527877199382,209,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q2,4,Identifying overlooked workflow problems,0.08351066838365784,8.35,83.51066838365945,74,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q2,5,All of the above,0.6842601100450683,68.43,684.2601100450814,698,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q2,6,I'm not sure / I don't know,0.051419811074072744,5.14,51.419811074073735,49,false,https://reports.verasight.io/r/aom-2026#q-2
+2026-152_q20,1,A person with one disciplinary area of expertise,0.28201852582029846,28.2,282.0185258203039,275,false,https://reports.verasight.io/r/aom-2026#q-21
+2026-152_q20,2,A person with two disciplinary areas of expertise,0.7179814741797014,71.8,717.9814741797153,725,false,https://reports.verasight.io/r/aom-2026#q-21
+2026-152_q21,1,Never,0.09388771735645354,9.39,93.88771735645535,96,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,2,Rarely,0.11748380092442957,11.75,117.48380092443185,121,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,3,Sometimes,0.20976110529118472,20.98,209.76110529118878,199,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,4,Often,0.09000953619039084,9,90.00953619039258,80,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,5,Very Often,0.037108666077514146,3.71,37.10866607751486,35,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,6,I do not use generative AI for work-related tasks,0.2208511692179584,22.09,220.85116921796265,224,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q21,7,I am not currently employed,0.2308980049420687,23.09,230.89800494207316,245,false,https://reports.verasight.io/r/aom-2026#q-22
+2026-152_q22,1,Never,0.09874802242301951,9.87,98.74802242302142,98,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,2,Rarely,0.14496968965408225,14.5,144.96968965408504,147,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,3,Sometimes,0.18009400623785082,18.01,180.0940062378543,169,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,4,Often,0.06486753597769965,6.49,64.8675359777009,58,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,5,Very often,0.0354578069836786,3.55,35.45780698367928,33,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,6,I do not use generative AI for work-related tasks,0.2199656628499936,22,219.96566284999787,222,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q22,7,I am not currently employed,0.2558972758736755,25.59,255.89727587368043,273,false,https://reports.verasight.io/r/aom-2026#q-23
+2026-152_q23,1,Strongly support,0.07876146277909032,7.88,78.76146277909184,74,false,https://reports.verasight.io/r/aom-2026#q-24
+2026-152_q23,2,Somewhat support,0.15582774397803578,15.58,155.8277439780388,149,false,https://reports.verasight.io/r/aom-2026#q-24
+2026-152_q23,3,Neutral,0.2840480695449237,28.4,284.04806954492915,269,false,https://reports.verasight.io/r/aom-2026#q-24
+2026-152_q23,4,Somewhat oppose,0.16554611746465542,16.55,165.5461174646586,180,false,https://reports.verasight.io/r/aom-2026#q-24
+2026-152_q23,5,Strongly oppose,0.31581660623329477,31.58,315.8166062333009,328,false,https://reports.verasight.io/r/aom-2026#q-24
+2026-152_q24,1,Never,0.23868239592454263,23.87,238.68239592454725,241,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,2,1-3 times,0.2374289350442248,23.74,237.42893504422938,240,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,3,4-6 times,0.12419832545556354,12.42,124.19832545556595,111,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,4,7-9 times,0.0435850850950988,4.36,43.58508509509964,37,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,5,10-12 times,0.007208299676134738,0.72,7.208299676134877,8,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,6,13 or more times,0.01282199177563881,1.28,12.821991775639058,12,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q24,7,I am not currently employed,0.3360749670287966,33.61,336.0749670288031,351,false,https://reports.verasight.io/r/aom-2026#q-25
+2026-152_q25,1,Strongly disagree,0.20314953386841528,20.31,203.1495338684192,211,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q25,2,Disagree,0.16676116077827408,16.68,166.7611607782773,164,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q25,3,Neither agree nor disagree,0.12901002179238136,12.9,129.01002179238384,117,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q25,4,Agree,0.13402756179593037,13.4,134.02756179593297,128,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q25,5,Strongly agree,0.07899834474707407,7.9,78.99834474707559,79,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q25,6,I am not currently employed,0.28805337701792477,28.81,288.05337701793036,301,false,https://reports.verasight.io/r/aom-2026#q-26
+2026-152_q26,1,Strongly disagree,0.13913271857735565,13.91,139.13271857735833,132,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q26,2,Disagree,0.18870061653227416,18.87,188.7006165322778,196,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q26,3,Neither agree nor disagree,0.2309334594305713,23.09,230.93345943057577,220,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q26,4,Agree,0.10640608291741639,10.64,106.40608291741844,103,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q26,5,Strongly agree,0.03868297070681243,3.87,38.68297070681318,37,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q26,6,I am not currently employed,0.29614415183556997,29.61,296.1441518355757,312,false,https://reports.verasight.io/r/aom-2026#q-27
+2026-152_q27,1,Never heard of them,0.6937016621417464,69.37,693.7016621417598,700,false,https://reports.verasight.io/r/aom-2026#q-28
+2026-152_q27,2,"Have heard of them, but not visited",0.2045634130169352,20.46,204.56341301693917,205,false,https://reports.verasight.io/r/aom-2026#q-28
+2026-152_q27,3,Visited one,0.05650240731204893,5.65,56.502407312050025,50,false,https://reports.verasight.io/r/aom-2026#q-28
+2026-152_q27,4,Have used the facilities of one,0.037034539513503634,3.7,37.03453951350435,38,false,https://reports.verasight.io/r/aom-2026#q-28
+2026-152_q27,5,Am an active member of one,0.008197978015765736,0.82,8.197978015765894,7,false,https://reports.verasight.io/r/aom-2026#q-28
+2026-152_q28,1,Strongly disagree,0.012610391385360083,1.26,12.610391385360327,12,false,https://reports.verasight.io/r/aom-2026#q-29
+2026-152_q28,2,Disagree,0.06589798606461686,6.59,65.89798606461814,60,false,https://reports.verasight.io/r/aom-2026#q-29
+2026-152_q28,3,Neither disagree nor agree,0.21139578355257357,21.14,211.39578355257765,199,false,https://reports.verasight.io/r/aom-2026#q-29
+2026-152_q28,4,Agree,0.4583172314805971,45.83,458.317231480606,467,false,https://reports.verasight.io/r/aom-2026#q-29
+2026-152_q28,5,Strongly agree,0.25177860751685227,25.18,251.77860751685716,262,false,https://reports.verasight.io/r/aom-2026#q-29
+2026-152_q29,1,Strongly disagree,0.039716212401747594,3.97,39.716212401748365,39,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q29,2,Disagree,0.036565243193729384,3.66,36.56524319373009,35,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q29,3,Neither agree nor disagree,0.12143150111599167,12.14,121.43150111599402,108,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q29,4,Agree,0.21806757719920733,21.81,218.06757719921154,212,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q29,5,Strongly agree,0.2957305287776076,29.57,295.7305287776133,297,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q29,6,Not applicable / I am not currently employed,0.2884889373117164,28.85,288.48893731172194,309,false,https://reports.verasight.io/r/aom-2026#q-30
+2026-152_q3,1,Supervisor,0.1883153178069513,18.83,188.31531780695494,173,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q3,2,HR,0.062130358038661654,6.21,62.130358038662855,54,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q3,3,Coworkers,0.37206991954592233,37.21,372.0699195459295,393,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q3,4,New employee,0.15711254914326556,15.71,157.11254914326858,160,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q3,5,Someone working alongside the employee during onboarding (ex. Job Coach),0.13512049484135505,13.51,135.12049484135767,136,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q3,6,I'm not sure / I don't know,0.08525136062384407,8.53,85.25136062384571,84,false,https://reports.verasight.io/r/aom-2026#q-3
+2026-152_q30,1,Strongly disagree,0.10224702508199969,10.22,102.24702508200167,104,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q30,2,Disagree,0.18577040475394407,18.58,185.77040475394767,190,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q30,3,Neither agree nor disagree,0.25370042250996816,25.37,253.70042250997304,234,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q30,4,Agree,0.26443053439964614,26.44,264.43053439965126,276,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q30,5,Strongly agree,0.07456148902221338,7.46,74.56148902221481,72,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q30,6,Not applicable,0.11929012423222847,11.93,119.29012423223078,124,false,https://reports.verasight.io/r/aom-2026#q-31
+2026-152_q31,1,Strongly disagree,0.07113776408620308,7.11,71.13776408620446,72,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q31,2,Disagree,0.14723721160024544,14.72,147.2372116002483,148,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q31,3,Neither agree or disagree,0.26918022626398047,26.92,269.1802262639857,248,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q31,4,Agree,0.3069128969469877,30.69,306.9128969469936,325,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q31,5,Strongly agree,0.09746577298234568,9.75,97.46577298234757,95,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q31,6,Not applicable,0.10806612812023753,10.81,108.06612812023961,112,false,https://reports.verasight.io/r/aom-2026#q-32
+2026-152_q32,1,I do not identify as neurodivergent,0.37545503679327613,37.55,375.4550367932834,391,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,2,Much less effort,0.0083588447334786,0.84,8.358844733478762,7,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,3,Less effort,0.011602032643234454,1.16,11.602032643234677,10,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,4,About the same,0.12231730307395429,12.23,122.31730307395665,104,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,5,More effort,0.13785563657344674,13.79,137.8556365734494,135,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,6,Much more effort,0.07144931675042618,7.14,71.44931675042756,65,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q32,7,Not applicable / I am not currently employed,0.2729618294321835,27.3,272.9618294321888,288,false,https://reports.verasight.io/r/aom-2026#q-33
+2026-152_q33,1,Not at all,0.015290966176480668,1.53,15.290966176480964,15,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,2,A little,0.09484402862943205,9.48,94.84402862943388,95,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,3,Moderate,0.20344070527729008,20.34,203.440705277294,207,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,4,Much,0.18669066148680452,18.67,186.69066148680812,187,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,5,Very much,0.19646829633186544,19.65,196.46829633186923,204,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,6,I do not have a partner,0.24762739961725777,24.76,247.62739961726257,238,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q33,7,My partner and I do not live together,0.05563794248086943,5.56,55.63794248087051,54,false,https://reports.verasight.io/r/aom-2026#q-34
+2026-152_q34,1,... do his best to provide for his wife and children,0.6978380454049314,69.78,697.838045404945,696,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,2,...frequently express and discuss his emotional feelings,0.5103784169689333,51.04,510.37841696894316,522,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,3,...establish and maintain his authority over his wife,0.07386704069260504,7.39,73.86704069260647,64,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,4,...support his wife in her career,0.6488654349873485,64.89,648.865434987361,668,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,5,"...do half the housework and childcare, regardless whether the wife has a job",0.4748302424035805,47.48,474.8302424035897,485,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,6,...work with other men to keep women in their place,0.044768192143110785,4.48,44.76819214311165,37,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,7,...expect to have sex at least once a week,0.16702592933155413,16.7,167.02592933155736,158,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q34,8,None of the above,0.04960300175043906,4.96,49.603001750440015,50,false,https://reports.verasight.io/r/aom-2026#q-17
+2026-152_q4,1,Not at all,0.059099164910033475,5.91,59.09916491003462,62,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,2,To a little extent,0.09530857877232475,9.53,95.3085787723266,97,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,3,To a moderate extent,0.24737638537633513,24.74,247.37638537633993,252,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,4,To a great extent,0.16834852222594285,16.83,168.3485222259461,170,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,5,To a very great extent,0.1284249316958742,12.84,128.4249316958767,130,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,6,I do not have a partner,0.24663514407111276,24.66,246.6351440711175,236,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q4,7,My partner and I do not live together,0.05480727294837675,5.48,54.80727294837781,53,false,https://reports.verasight.io/r/aom-2026#q-4
+2026-152_q5,1,To generate ideas and explore possible futures,0.29297934801737324,29.3,292.9793480173789,292,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,2,"To better understand my goals, values, and current situation",0.20674598469450173,20.67,206.74598469450572,195,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,3,To compare options and support decision-making,0.29547453555108777,29.55,295.4745355510935,298,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,4,To turn my goals into concrete plans and actions,0.25893280834478244,25.89,258.9328083447874,247,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,5,To improve or build on plans I have already developed,0.24406396913245862,24.41,244.06396913246334,237,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,6,I would not use AI tools for this purpose,0.3488267662528164,34.88,348.8267662528231,363,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q5,7,Other,0.018704775288504016,1.87,18.704775288504376,18,false,https://reports.verasight.io/r/aom-2026#q-5
+2026-152_q6,1,Male,0.20169631410490227,20.17,201.69631410490618,188,false,https://reports.verasight.io/r/aom-2026#q-6
+2026-152_q6,2,Female,0.25363874229413846,25.36,253.63874229414336,249,false,https://reports.verasight.io/r/aom-2026#q-6
+2026-152_q6,3,Non-binary,0.028799180296924878,2.88,28.799180296925435,29,false,https://reports.verasight.io/r/aom-2026#q-6
+2026-152_q6,4,No gender,0.25881707921298847,25.88,258.81707921299346,265,false,https://reports.verasight.io/r/aom-2026#q-6
+2026-152_q6,5,I do not use generative AI,0.2570486840910458,25.7,257.0486840910508,269,false,https://reports.verasight.io/r/aom-2026#q-6
+2026-152_q7,1,Yes,0.8415845505886833,84.16,841.5845505886996,860,false,https://reports.verasight.io/r/aom-2026#q-7
+2026-152_q7,2,No,0.13434371390201996,13.43,134.34371390202256,122,false,https://reports.verasight.io/r/aom-2026#q-7
+2026-152_q7,3,I have never been employed,0.024071735509296626,2.41,24.071735509297092,18,false,https://reports.verasight.io/r/aom-2026#q-7
+2026-152_q8,1,Only at my current employer (they wouldn’t be much use at another company).,0.04666694312863019,4.67,46.6669431286311,46,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q8,2,"At other companies in my industry, but not outside it.",0.1382084011271699,13.82,138.20840112717258,135,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q8,3,"In my type of work or occupation, at companies in any industry.",0.22652046905654705,22.65,226.52046905655143,222,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q8,4,Broadly useful in almost any job or industry.,0.26926415317800917,26.93,269.2641531780144,277,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q8,5,I haven’t gained skills that are especially useful anywhere.,0.031839154948142746,3.18,31.83915494814336,29,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q8,6,I am not currently employed full-time.,0.28750087856150086,28.75,287.5008785615064,291,false,https://reports.verasight.io/r/aom-2026#q-8
+2026-152_q9,1,Never,0.365361029246285,36.54,365.36102924629205,364,false,https://reports.verasight.io/r/aom-2026#q-9
+2026-152_q9,2,Daily,0.12773423355153868,12.77,127.73423355154114,121,false,https://reports.verasight.io/r/aom-2026#q-9
+2026-152_q9,3,Weekly,0.13432198851504668,13.43,134.32198851504927,126,false,https://reports.verasight.io/r/aom-2026#q-9
+2026-152_q9,4,Monthly,0.07503161763925008,7.5,75.03161763925152,76,false,https://reports.verasight.io/r/aom-2026#q-9
+2026-152_q9,5,Yearly,0.016599766722336533,1.66,16.599766722336852,18,false,https://reports.verasight.io/r/aom-2026#q-9
+2026-152_q9,6,"Not applicable (e.g., I am not currently working)",0.28095136432554296,28.1,280.9513643255484,295,false,https://reports.verasight.io/r/aom-2026#q-9
