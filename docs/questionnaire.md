@@ -46,9 +46,7 @@ Source question: <https://reports.verasight.io/r/aom-2026#q-15>
 
 ## 2026-152_q16
 
-If you were supervising employees, how favorable would you be toward your subordinates holding another job (e.g.
-
-a side hustle, gig work, or personal business)?
+If you were supervising employees, how favorable would you be toward your subordinates holding another job (e.g., a side hustle, gig work, or personal business)?
 
 Source question: <https://reports.verasight.io/r/aom-2026#q-16>
 
